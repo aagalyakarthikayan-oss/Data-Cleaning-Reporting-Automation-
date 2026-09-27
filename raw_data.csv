@@ -1,0 +1,125 @@
+customer_id,name,city,signup_date,purchase_amount,email
+1,Customer_1,Hyderabad,2024-01-01,1959.47,user1@mail.com
+2,Customer_2,Delhi,2024-01-04,2662.51,user2@mail.com
+3,Customer_3,,2024-01-07,,user3@mail.com
+4,Customer_4,hyderabad,2024-01-10,,user4@mail.com
+5,Customer_5,Delhi,2024-01-13,1550.24,user5@mail.com
+6,Customer_6,Bengaluru,2024-01-16,,user6@mail.com
+7,Customer_7,hyderabad,2024-01-19,2343.04,user7@mail.com
+8,Customer_8, Chennai,2024-01-22,3219.01,user8@mail.com
+9,Customer_9,chennai,2024-01-25,3416.18,user9@mail.com
+10,Customer_10,mumbai,2024-01-28,1441.18,user10@mail.com
+11,Customer_11,,2024-01-31,1864.29,user11@mail.com
+12,Customer_12,hyderabad,2024-02-03,3017.52,user12@mail.com
+13,Customer_13,,2024-02-06,906.06,user13@mail.com
+14,Customer_14,,2024-02-09,2129.46,user14@mail.com
+15,Customer_15,delhi,2024-02-12,2422.17,user15@mail.com
+16,Customer_16,hyderabad,2024-02-15,3505.61,not-an-email
+17,Customer_17,CHENNAI,2024-02-18,3051.52,user17@mail.com
+18,Customer_18,Bengaluru,2024-02-21,2238.23,user18@mail.com
+19,Customer_19,CHENNAI,2024-02-24,2205.14,user19@mail.com
+20,Customer_20,,2024-02-27,,user20@mail.com
+21,Customer_21,Bengaluru,2024-03-01,3718.82,user21@mail.com
+22,Customer_22,mumbai,2024-03-04,2157.58,user22@mail.com
+23,Customer_23,mumbai,2024-03-07,2257.06,user23@mail.com
+24,Customer_24,mumbai,2024-03-10,2782.07,user24@mail.com
+25,Customer_25,bangalore,2024-03-13,2403.38,user25@mail.com
+26,Customer_26, Chennai,2024-03-16,2342.17,user26@mail.com
+27,Customer_27,Hyderabad,2024-03-19,-999.0,user27@mail.com
+28,Customer_28,Mumbai ,2024-03-22,2490.78,user28@mail.com
+29,Customer_29,delhi,2024-03-25,2145.14,user29@mail.com
+30,Customer_30,delhi,2024-03-28,-999.0,user30@mail.com
+31,Customer_31,Delhi,2024-03-31,3022.47,user31@mail.com
+32,Customer_32,Delhi,2024-04-03,2480.69,user32@mail.com
+33,Customer_33,delhi,2024-04-06,3034.7,user33@mail.com
+34,Customer_34,Hyderabad,2024-04-09,2228.1,user34@mail.com
+35,Customer_35,Bengaluru,2024-04-12,,user35@mail.com
+36,Customer_36,Bengaluru,2024-04-15,2495.68,user36@mail.com
+37,Customer_37,bangalore,2024-04-18,2966.71,user37@mail.com
+38,Customer_38,Delhi,2024-04-21,1467.29,user38@mail.com
+39,Customer_39,mumbai,2024-04-24,2777.34,user39@mail.com
+40,Customer_40,Hyderabad,2024-04-27,1149.44,user40@mail.com
+41,Customer_41,delhi,2024-04-30,871.74,user41@mail.com
+42,Customer_42, Chennai,2024-05-03,2256.42,user42@mail.com
+43,Customer_43,hyderabad,2024-05-06,1780.06,user43@mail.com
+44,Customer_44,CHENNAI,2024-05-09,2631.24,user44@mail.com
+45,Customer_45,hyderabad,2024-05-12,4295.81,user45@mail.com
+46,Customer_46,Delhi,2024-05-15,1834.62,user46@mail.com
+47,Customer_47,CHENNAI,2024-05-18,2000.85,user47@mail.com
+48,Customer_48,chennai,2024-05-21,2664.32,user48@mail.com
+49,Customer_49,Mumbai ,2024-05-24,2894.41,user49@mail.com
+50,Customer_50,chennai,2024-05-27,2358.88,user50@mail.com
+51,Customer_51,CHENNAI,2024-05-30,2335.26,user51@mail.com
+52,Customer_52,delhi,2024-06-02,,user52@mail.com
+53,Customer_53,Hyderabad,2024-06-05,-999.0,user53@mail.com
+54,Customer_54,delhi,2024-06-08,1673.06,user54@mail.com
+55,Customer_55,,2024-06-11,2436.65,user55@mail.com
+56,Customer_56,Hyderabad,2024-06-14,2528.23,user56@mail.com
+57,Customer_57,hyderabad,2024-06-17,1656.41,user57@mail.com
+58,Customer_58,Delhi,2024-06-20,2707.87,user58@mail.com
+59,Customer_59,Mumbai ,2024-06-23,,user59@mail.com
+60,Customer_60,delhi,2024-06-26,3277.65,user60@mail.com
+61,Customer_61, Chennai,2024-06-29,2654.2,user61@mail.com
+62,Customer_62,delhi,2024-07-02,2571.45,user62@mail.com
+63,Customer_63,Mumbai ,2024-07-05,2027.18,user63@mail.com
+64,Customer_64, Chennai,2024-07-08,2405.11,user64@mail.com
+65,Customer_65,Hyderabad,2024-07-11,901.8,user65@mail.com
+66,Customer_66,chennai,2024-07-14,1594.87,user66@mail.com
+67,Customer_67,,2024-07-17,2790.27,user67@mail.com
+68,Customer_68, Chennai,2024-07-20,797.15,user68@mail.com
+69,Customer_69,Hyderabad,2024-07-23,3177.29,user69@mail.com
+70,Customer_70,bangalore,2024-07-26,1103.12,user70@mail.com
+71,Customer_71,hyderabad,2024-07-29,3105.39,user71@mail.com
+72,Customer_72, Chennai,2024-08-01,1823.6,user72@mail.com
+73,Customer_73,bangalore,2024-08-04,3123.19,user73@mail.com
+74,Customer_74,Mumbai ,2024-08-07,2604.76,user74@mail.com
+75,Customer_75,delhi,2024-08-10,1270.53,user75@mail.com
+76,Customer_76,chennai,2024-08-13,-999.0,user76@mail.com
+77,Customer_77,Delhi,2024-08-16,3653.37,user77@mail.com
+78,Customer_78,hyderabad,2024-08-19,2447.36,user78@mail.com
+79,Customer_79,bangalore,2024-08-22,2280.87,user79@mail.com
+80,Customer_80,,2024-08-25,-999.0,user80@mail.com
+81,Customer_81,delhi,2024-08-28,,user81@mail.com
+82,Customer_82, Chennai,2024-08-31,3378.87,user82@mail.com
+83,Customer_83,Hyderabad,2024-09-03,2065.69,user83@mail.com
+84,Customer_84,hyderabad,2024-09-06,2459.05,user84@mail.com
+85,Customer_85, Chennai,2024-09-09,1865.36,user85@mail.com
+86,Customer_86,delhi,2024-09-12,1999.14,user86@mail.com
+87,Customer_87,Hyderabad,2024-09-15,1477.82,user87@mail.com
+88,Customer_88,hyderabad,2024-09-18,3505.66,user88@mail.com
+89,Customer_89,bangalore,2024-09-21,2376.73,user89@mail.com
+90,Customer_90,bangalore,2024-09-24,3272.74,user90@mail.com
+91,Customer_91,chennai,2024-09-27,2510.66,user91@mail.com
+92,Customer_92,Bengaluru,2024-09-30,1944.48,user92@mail.com
+93,Customer_93,delhi,2024-10-03,,user93@mail.com
+94,Customer_94,CHENNAI,2024-10-06,2051.82,user94@mail.com
+95,Customer_95, Chennai,2024-10-09,2506.37,user95@mail.com
+96,Customer_96,delhi,2024-10-12,2199.79,user96@mail.com
+97,Customer_97,bangalore,2024-10-15,,user97@mail.com
+98,Customer_98,delhi,2024-10-18,1397.14,user98@mail.com
+99,Customer_99,Delhi,2024-10-21,,user99@mail.com
+100,Customer_100,hyderabad,2024-10-24,3823.25,user100@mail.com
+101,Customer_101,bangalore,2024-10-27,1963.01,user101@mail.com
+102,Customer_102,mumbai,2024-10-30,1656.72,user102@mail.com
+103,Customer_103,bangalore,2024-11-02,2769.86,user103@mail.com
+104,Customer_104,Delhi,2024-11-05,3625.82,user104@mail.com
+105,Customer_105,CHENNAI,2024-11-08,,user105@mail.com
+106,Customer_106,chennai,2024-11-11,2333.18,user106@mail.com
+107,Customer_107,bangalore,2024-11-14,1994.36,user107@mail.com
+108,Customer_108,Mumbai ,2024-11-17,1091.18,user108@mail.com
+109,Customer_109,Delhi,2024-11-20,3087.94,user109@mail.com
+110,Customer_110,mumbai,2024-11-23,2481.24,user110@mail.com
+111,Customer_111, Chennai,2024-11-26,2557.15,user111@mail.com
+112,Customer_112,CHENNAI,2024-11-29,1898.15,user112@mail.com
+113,Customer_113,Mumbai ,2024-12-02,2863.83,user113@mail.com
+114,Customer_114,Bengaluru,2024-12-05,2068.56,user114@mail.com
+115,Customer_115,Mumbai ,2024-12-08,2385.68,user115@mail.com
+116,Customer_116,Mumbai ,2024-12-11,1613.39,user116@mail.com
+117,Customer_117,Delhi,2024-12-14,1527.12,user117@mail.com
+118,Customer_118,Hyderabad,2024-12-17,3568.43,user118@mail.com
+119,Customer_119,Mumbai ,2024-12-20,2094.32,user119@mail.com
+120,Customer_120,Delhi,2024-12-23,2733.34,user120@mail.com
+4,Customer_4,hyderabad,2024-01-10,,user4@mail.com
+11,Customer_11,,2024-01-31,1864.29,user11@mail.com
+23,Customer_23,mumbai,2024-03-07,2257.06,user23@mail.com
+51,Customer_51,CHENNAI,2024-05-30,2335.26,user51@mail.com
